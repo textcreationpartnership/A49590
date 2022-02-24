@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of every free-man libertie against all arbitrary power and government, or, A letter of William Larner, prisoner, to Sir Henry Vane, Junior, a parliamentarian wherein is set forth his unjust imprisonment and cruell hard dealings towards the said William Larner.</title>
+            <author>Larner, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49590</idno>
+            <idno type="STC">Wing L445A</idno>
+            <idno type="STC">ESTC R37961</idno>
+            <idno type="EEBO-CITATION">17156351</idno>
+            <idno type="OCLC">ocm 17156351</idno>
+            <idno type="VID">105987</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105987)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1618:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of every free-man libertie against all arbitrary power and government, or, A letter of William Larner, prisoner, to Sir Henry Vane, Junior, a parliamentarian wherein is set forth his unjust imprisonment and cruell hard dealings towards the said William Larner.</title>
+                  <author>Larner, William.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Dated on p.4: 3 of June, 1646.</note>
+                  <note>Imperfect: stained, with print show-through and slight loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Due process of law --  England.</term>
+               <term>Detention of persons --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:105987:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 79 -->
+            <pb facs="tcp:105987:2"/>
+            <!-- PDF PAGE 80 -->
+            <pb n="1" facs="tcp:105987:2"/>
+            <!-- PDF PAGE 80 -->
+            <head>
+               <hi>A Vindication of every Free-mans liber<g ref="char:EOLhyphen"/>tie; againſt all Arbitrary power and Government. OR,</hi> A Letter of <hi>WILLIAM LARNER</hi> Priſoner, to Sir <hi>HENRY VANE junior,</hi> a Parliament man: Wherein is ſet forth his unjuſt Impriſonment, and cruell hard dealings towards the ſaid <hi>William Larner.</hi>
+            </head>
+            <opener>
+               <salute>HONOURED SIR,</salute>
+            </opener>
+            <p>IT is not unknown unto you, my ſuffering condition, be<g ref="char:EOLhyphen"/>ing in ſome meaſure ſet forth unto you, in my Letter of the 3d. of <hi>April</hi> laſt paſt, which I ſent you then: I expected according to your undertaking and promiſe, you would have done ſomewhat whereby I might either have been freed from theſe my bands, or otherwiſe brought to triall, according to Law, and not thus to have ſuffered me to languiſh in priſon, as many more do. The Houſe of Commons have declared, that they will not exerciſe any Arbitrary power, or ſuffer it to be done by any other, but according to the fundamentall Lawes of this Kingdome, Juſtice and right to be done to every man without reſpect of perſons: Beſides, you have bound your ſelves by Oath unto, and by a Law confirmed the <hi>Great Char<g ref="char:EOLhyphen"/>ter of Liberties,</hi> for the preſervation whereof we have adven<g ref="char:EOLhyphen"/>tured all, in aſſiſting you againſt the oppugners thereof.</p>
+            <p>But now contrary to your Oathes, Proteſtations, Lawes and Statutes of this Kingdome, am I ſtill detained in priſon, to the ruining and utter undoing of my wife and family, all means of ſubſiſtence and livelihood being taken from us, yet you ſeem regardleſſe of it, as if it were a matter that concerned you no<g ref="char:EOLhyphen"/>thing. <hi>Sir,</hi> I pray you to conſider, that if the oppreſſions and ſeverall grievances of men in particular be not redreſſed what avails your generall Laws? If you that are Members of the Houſe, refuſe to preſent our grievance and juſt complaints, to
+<pb n="2" facs="tcp:105987:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 81 -->
+the Houſe, what hopes can we have to receive any comfort or relief there, whatſoever good that Honourable Houſe intends us? So as indeed you that neglect or refuſe to open your mouths (being bound by Oath and the duty of your place thereunto for us) in preſenting our Petitions, conditions and ſufferings, to that Honourable Houſe, may you not be truly ſaid to be ſuch as are the betrayers of our Liberties, covertly doing more diſ<g ref="char:EOLhyphen"/>ſervice to the Parliament and State, then the Enemy that open<g ref="char:EOLhyphen"/>ly fighteth againſt them: The Enemy diſcovers themſelves (by oppugning the Laws and our liberties) what they be; but you whileſt you retard the delivering up of our complaints, think<g ref="char:EOLhyphen"/>ing the fault to be in the Houſe, cauſes us to conceive hard thoughts againſt them, brings us into a diſlike of their govern<g ref="char:EOLhyphen"/>ment, and thus you do the work of the Enemy; and by thus neglecting us, do the Parliament more harm, and in time (if not provided for) will prove more dangerous then all the ma<g ref="char:EOLhyphen"/>chinations and attempts of the adverſary: For, the people be<g ref="char:EOLhyphen"/>gin already to look upon you, as men carrying on your own de<g ref="char:EOLhyphen"/>ſignes and peculiar and private intereſts, under the Veil of pub<g ref="char:EOLhyphen"/>like pretences, and that your care is how to get great Offices and places for your ſelves and your friends, and while you ſuf<g ref="char:EOLhyphen"/>fer us the Commons to be ſpoiled of all, to lie in Priſons, and undergo all miſeries, wants and extremities, you be nothing troubled thereat, ſo long as your ſelves fare well; this is utterly a fault in many of you, of no little blemiſh and ſhame for you, and cannot be imputed to be little leſſe then meer madneſſe, in thus exaſperating our ſpirits, and alienating our affections from you, and yet to ſtand upon ſo high tearms with the contrary party.</p>
+            <p>Till you by actions manifeſt, as by your words you have de<g ref="char:EOLhyphen"/>clared to the world, to be the men you profeſſe and would ſeem to be, I and others ſhall doubt that you intend nothing leſſe then our good, or peace. For hitherto you have ſworn and pro<g ref="char:EOLhyphen"/>teſted, but all as yet in vain: For theſe our Bonds and Impri<g ref="char:EOLhyphen"/>ſonments ſhew them to be (hitherto) emptineſſe and Winde; and if this be continued, theſe courſes will make the people hate you, and as you have been regardleſſe of their burthens and complaints, ſo (I fear) when you ſhall expect and moſt need their help, they will diſſert you.</p>
+            <p>
+               <pb n="3" facs="tcp:105987:3"/>
+               <!-- PDF PAGE 81 -->Sir, are we a free-born people, or are we born ſlaves? What I pray you, makes you to differ? who brought you into that Houſe? whether your own greatneſſe and power, or the peoples love and Election? If by the people, how comes it then to paſſe, that their grievances and complaints be ſo little minded, and themſelves ſo contemptible in your eyes? (as if meer ſlaves:) Beware, leſt loſing and neglecting them, you loſe not your ſelves: Excuſe my plainneſſe and freedome; for if I hold my peace, I ſee deſtruction; by putting my ſelf forth this way, I may happily ſave you and my ſelf, in awaking you out of this drowſineſſe, careleſneſſe (of our common liberty) with which you are ſo deeply overtaken.</p>
+            <p>You ſee in what condition you have brought us, even into a condition worſe then ſlavery, yea, worſe then death; for in death ſorrow is not remembred; bread is provided for the ſlave, but we your priſoners (loaden with ſorrow, broken with afflic<g ref="char:EOLhyphen"/>tion) mewed up in your priſon houſes, oftentimes wiſh for death and cannot finde it, nor any bread you provide for us, hun<g ref="char:EOLhyphen"/>ger-ſtarved men, and we pine in priſons, not pitied, not la<g ref="char:EOLhyphen"/>mented.</p>
+            <p>Sir, if I have offended, if I have tranſgreſſed any known law, I then crave the benefit of the Law, the liberty of a Free-man; that, either according to the ſame I may be tried for my juſtifi<g ref="char:EOLhyphen"/>cation or condemnation, or otherwiſe; that I may be holden no longer from my charge and<note n="*" place="margin">For if I provide not for my family, I am worſe then an in<g ref="char:EOLhyphen"/>fidell: but wo be to them that are the cauſe's thereof.</note> calling, in this my tormenting Priſon.</p>
+            <p>You have confirmed <hi>Magna Charta,</hi> and many other good Lawes ſince made in favour of our Liberties, and yet unrepea<g ref="char:EOLhyphen"/>led; which if they were duly put in execution, I then ſhould not doubt but to come forth out of priſon, to the confuſion of the faces of ſuch as proſecutes, and maliciouſly informs againſt me: In the beginning of this Parliament you brought us out of Priſons, approved our ſtandings and ſufferings againſt the Exor<g ref="char:EOLhyphen"/>bitant and Arbitrary power and Government of the Starcham-chamber, Councell Table, and high Commiſſion Court. Theſe your incouragements made us bold, did you finde us ungrateful? We are the ſame men ſtill, we have the ſame affections to you, and if by you we may receive one <hi>Ordinance, viz.</hi> The Ordinance
+<pb n="4" facs="tcp:105987:4"/>
+               <!-- PDF PAGE 82 -->
+of <hi>Juſtice,</hi> then aſſure your ſelves, we to our abilities will not be wanting to you, but will be ever ready to ſpend and be ſpent for you: Thus hoping you will at length anſwer the expectation of a Free-man of <hi>England</hi> wrongfully impriſoned, and no longer adde to the ſins of the <hi>Prelates,</hi> to the increaſing of wrath, by impriſoning and unjuſtly tormenting, <hi>juſt and free perſons.</hi> In expectation whereof, Sir I am, and will remain</p>
+            <closer>
+               <signed>
+                  <hi>Yours in all due reſpects to his power:</hi> WILL: LARNER.</signed>
+               <dateline>
+                  <hi>From the Priſon in</hi> Maiden-lane
+<date>
+                     <hi>this</hi> 3. <hi>of</hi> June, 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="petition">
+            <head>To the Right honourable, the LORDS aſſem<g ref="char:EOLhyphen"/>bled in Parliament.</head>
+            <head type="sub">
+               <hi>The humble Petition of</hi> Hellen Larner, <hi>in the behalf of her huſband</hi> William Larner, <hi>and their two ſervants,</hi> John Larner, <hi>and</hi> Jane Hale.</head>
+            <opener>Sheweth,</opener>
+            <p>THat your Petitioners husband, hath now ſtood committed more then 8. Weeks, and their ſervants in the Fleet four Weeks, upon a falſe ſuggeſtion of <hi>Hunſcors</hi> (the Stationers Beadle) a malicious adverſary of your poor petitioners husband.</p>
+            <p>Your Petitioner moſt humbly beſeecheth your Honours, to commiſerate our deplorable condition, whoſe meanes of livelihood, depends ſolely upon their calling and li<g ref="char:EOLhyphen"/>berty, and therefore according to your noble clemencie, to be pleaſed to aſſigne unto them, their liberty out of Goal, free of all priſon fees:</p>
+            <closer>
+               <hi>And your Petitioner as bound, ſhall pray, &amp;c.</hi> 
+               <signed>WILLIAM LARNER.</signed>
+            </closer>
+            <pb facs="tcp:105987:4"/>
+            <!-- PDF PAGE 82 -->
+         </div>
+      </body>
+   </text>
+</TEI>
